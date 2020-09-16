@@ -28,6 +28,12 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+p2 {
+    font-size: 1.1em;
+    line-height: 1.4em;
+    color: #333;
+}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -40,4 +46,9 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+hp  {
+float: none;    
+ margin: 0 15px 0 0;
 }
